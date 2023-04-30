@@ -11,4 +11,10 @@ In this repo we will learn shell concepts
 7. Inputs
 8. Quotes
 
-##
+
+echo -e "\e[31mMESSAGE\e[0m"
+echo -e "\e[32mMESSAGE\e[0m"
+echo -e "\e[33mMESSAGE\e[0m"
+echo -e "\e[34mMESSAGE\e[0m"
+echo -e "\e[35mMESSAGE\e[0m"
+echo -e "\e[36mMESSAGE\e[0m"
